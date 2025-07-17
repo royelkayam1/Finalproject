@@ -1,5 +1,5 @@
-package main.java;
 
+package main;
 public class Category {
     private String name;
 
@@ -21,7 +21,6 @@ public class Category {
                 "name='" + name + '\'' + '}';
     }
 }
-
 
 
 

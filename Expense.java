@@ -1,5 +1,4 @@
-package main.java;// Expense.java
-
+package main;
 import java.util.ArrayList; // נדרש עבור fromCsvString המעודכן
 import java.util.List;     // נדרש עבור fromCsvString המעודכן
 

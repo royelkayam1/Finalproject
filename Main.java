@@ -1,5 +1,4 @@
-package main.java;
-
+package main;
 import java.util.List;
 import java.util.Scanner;
 
@@ -12,7 +11,7 @@ import java.util.Scanner;
 // אם הן באותה חבילה, אין צורך ביבוא מפורש.
 
 
-public class Main {
+public class Main{
 
     // הגדר נתיבים קבועים לקובצי הנתונים (הקבצים ייווצרו/ייקראו בתיקייה שבה מריצים את התוכנית)
     private static final String EXPENSES_DATA_FILE = "expenses.csv";
